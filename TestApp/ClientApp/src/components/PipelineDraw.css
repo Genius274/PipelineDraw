@@ -1,0 +1,20 @@
+﻿.mainContainer {
+    border: 1px solid;
+    display: flex;
+    width: 1000px;
+}
+
+.canvasContainer {
+    width: 740px;
+    height: 425px;
+    border: 1px solid;
+}
+
+.buttonsContainer {
+    width: auto;
+}
+
+.button {
+    margin: 10px;
+    width: 150px;
+}
